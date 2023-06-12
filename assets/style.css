@@ -172,7 +172,7 @@ p {
 .about-section {
   padding: 3rem;
   width: 100vw;
-  height: 80vh;
+  height: 60vh;
   display: flex;
   flex-direction: row;
   margin-top: 3rem;
@@ -542,6 +542,10 @@ section .start_section {
   width: 10px;
 } */
 
+.tube1{
+  scale: 1;
+}
+
 .mobile-nav-toggle {
   display: none;
 }
@@ -721,9 +725,9 @@ section .start_section {
   }
 
   .about-section {
-    margin-bottom: 10em;
-    margin-top: 9em;
-    height: 100vh;
+    margin-bottom: 7em;
+    margin-top: 6em;
+    height: 80vh;
   }
   .card .color {
     font-size: 1em;
